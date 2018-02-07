@@ -14,4 +14,6 @@ public class SmartPhone extends Mp3Player{
 		System.out.println("戻る");
 
 	}
-}
+
+	}
+
